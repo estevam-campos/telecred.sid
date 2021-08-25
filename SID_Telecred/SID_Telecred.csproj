@@ -1,0 +1,713 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{542AA41F-DA70-4FC5-B8AC-96DF7EFF10E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SID_Telecred</RootNamespace>
+    <AssemblyName>SID_Telecred</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <UpdateUrl>http://localhost/SID_Telecred/</UpdateUrl>
+    <ProductName>SID_Telecred</ProductName>
+    <PublisherName>Sistema Integrado de Digitação Telecred</PublisherName>
+    <SuiteName>Sistema Integrado de Digitação Telecred</SuiteName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>SetupSID_Telecred.htm</WebPage>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.14.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9E67A198ED2D7B6343C72A2AAF4A66CBFBC24022</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SID_Telecred_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SID_Telecred.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>form_blue.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcessoBD.cs" />
+    <Compile Include="Classes.cs" />
+    <Compile Include="frmAlteracaoStatusPeg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlteracaoStatusPeg.Designer.cs">
+      <DependentUpon>frmAlteracaoStatusPeg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarRegimeAtendimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarRegimeAtendimento.Designer.cs">
+      <DependentUpon>frmAlterarRegimeAtendimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssociarServicoReembolso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssociarServicoReembolso.Designer.cs">
+      <DependentUpon>frmAssociarServicoReembolso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarPeg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarPeg.Designer.cs">
+      <DependentUpon>frmConsultarPeg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCriacaoLotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCriacaoLotes.Designer.cs">
+      <DependentUpon>frmCriacaoLotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssociacaoCampos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssociacaoCampos.Designer.cs">
+      <DependentUpon>frmAssociacaoCampos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCaixa.Designer.cs">
+      <DependentUpon>frmCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChaveRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChaveRegistro.Designer.cs">
+      <DependentUpon>frmChaveRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfigurarServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfigurarServico.Designer.cs">
+      <DependentUpon>frmConfigurarServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfigurarAplicacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfigurarAplicacao.Designer.cs">
+      <DependentUpon>frmConfigurarAplicacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDavitaImportacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDavitaImportacao.Designer.cs">
+      <DependentUpon>frmDavitaImportacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDigitacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDigitacao.Designer.cs">
+      <DependentUpon>frmDigitacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDistribuirPeg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDistribuirPeg.Designer.cs">
+      <DependentUpon>frmDistribuirPeg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnvioListagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnvioListagem.Designer.cs">
+      <DependentUpon>frmEnvioListagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstatisticasPegPortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstatisticasPegPortal.Designer.cs">
+      <DependentUpon>frmEstatisticasPegPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEvento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEvento.Designer.cs">
+      <DependentUpon>frmEvento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExportacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExportacao.Designer.cs">
+      <DependentUpon>frmExportacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExportacaoCD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExportacaoCD.Designer.cs">
+      <DependentUpon>frmExportacaoCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExpurgo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExpurgo.Designer.cs">
+      <DependentUpon>frmExpurgo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFechamentoReembolso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFechamentoReembolso.Designer.cs">
+      <DependentUpon>frmFechamentoReembolso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportacaoBases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportacaoBases.Designer.cs">
+      <DependentUpon>frmImportacaoBases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportacaoPegs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportacaoPegs.Designer.cs">
+      <DependentUpon>frmImportacaoPegs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportarDigitalizados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportarDigitalizados.Designer.cs">
+      <DependentUpon>frmImportarDigitalizados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLotes.Designer.cs">
+      <DependentUpon>frmLotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManutencao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManutencao.Designer.cs">
+      <DependentUpon>frmManutencao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManutencaoLotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManutencaoLotes.Designer.cs">
+      <DependentUpon>frmManutencaoLotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMigracaoPegPortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMigracaoPegPortal.Designer.cs">
+      <DependentUpon>frmMigracaoPegPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPermissaoPeg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPermissaoPeg.Designer.cs">
+      <DependentUpon>frmPermissaoPeg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPesquisa.Designer.cs">
+      <DependentUpon>frmPesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReembolso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReembolso.Designer.cs">
+      <DependentUpon>frmReembolso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorios.Designer.cs">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRespostaPeg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRespostaPeg.Designer.cs">
+      <DependentUpon>frmRespostaPeg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServicos.Designer.cs">
+      <DependentUpon>frmServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSobre.Designer.cs">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificacaoNFe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificacaoNFe.Designer.cs">
+      <DependentUpon>frmVerificacaoNFe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcoes.cs" />
+    <Compile Include="MessageFilter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAlteracaoStatusPeg.resx">
+      <DependentUpon>frmAlteracaoStatusPeg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarRegimeAtendimento.resx">
+      <DependentUpon>frmAlterarRegimeAtendimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssociarServicoReembolso.resx">
+      <DependentUpon>frmAssociarServicoReembolso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarPeg.resx">
+      <DependentUpon>frmConsultarPeg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCriacaoLotes.resx">
+      <DependentUpon>frmCriacaoLotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssociacaoCampos.resx">
+      <DependentUpon>frmAssociacaoCampos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCaixa.resx">
+      <DependentUpon>frmCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChaveRegistro.resx">
+      <DependentUpon>frmChaveRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfigurarServico.resx">
+      <DependentUpon>frmConfigurarServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfigurarAplicacao.resx">
+      <DependentUpon>frmConfigurarAplicacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDavitaImportacao.resx">
+      <DependentUpon>frmDavitaImportacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDigitacao.resx">
+      <DependentUpon>frmDigitacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDistribuirPeg.resx">
+      <DependentUpon>frmDistribuirPeg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnvioListagem.resx">
+      <DependentUpon>frmEnvioListagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstatisticasPegPortal.resx">
+      <DependentUpon>frmEstatisticasPegPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEvento.resx">
+      <DependentUpon>frmEvento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExportacao.resx">
+      <DependentUpon>frmExportacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExportacaoCD.resx">
+      <DependentUpon>frmExportacaoCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExpurgo.resx">
+      <DependentUpon>frmExpurgo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFechamentoReembolso.resx">
+      <DependentUpon>frmFechamentoReembolso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportacaoBases.resx">
+      <DependentUpon>frmImportacaoBases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportacaoPegs.resx">
+      <DependentUpon>frmImportacaoPegs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportarDigitalizados.resx">
+      <DependentUpon>frmImportarDigitalizados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLotes.resx">
+      <DependentUpon>frmLotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManutencao.resx">
+      <DependentUpon>frmManutencao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManutencaoLotes.resx">
+      <DependentUpon>frmManutencaoLotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMigracaoPegPortal.resx">
+      <DependentUpon>frmMigracaoPegPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPermissaoPeg.resx">
+      <DependentUpon>frmPermissaoPeg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPesquisa.resx">
+      <DependentUpon>frmPesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReembolso.resx">
+      <DependentUpon>frmReembolso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorios.resx">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRespostaPeg.resx">
+      <DependentUpon>frmRespostaPeg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServicos.resx">
+      <DependentUpon>frmServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSobre.resx">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificacaoNFe.resx">
+      <DependentUpon>frmVerificacaoNFe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SID_Telecred_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddField.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentClear.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentInto.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentOut.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DownArrow.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eraser.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FloppyDisks.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewJob.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpArrow.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpArrow1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_ball_glass_green.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_ball_glass_red.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ktouch.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Documents.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door2_open.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businesspeople2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_new.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_ok.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook_edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentEdit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentRefresh.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Metapackage.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentAdd.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="form_blue.ico" />
+    <None Include="Resources\table2_delete.ico" />
+    <None Include="Resources\table2_delete.png" />
+    <None Include="Resources\table_row_add_before.ico" />
+    <None Include="Resources\table_row_preferences.ico" />
+    <None Include="Resources\table_row.ico" />
+    <None Include="Resources\document_delete.png" />
+    <None Include="Resources\NFSe_layout_novo.jpg" />
+    <None Include="Resources\document_text.png" />
+    <None Include="Resources\icons8-nota-fiscal-electrónica-48.png" />
+    <None Include="Resources\Davita.ico" />
+    <None Include="Resources\Excel.ico" />
+    <None Include="Resources\save_as.ico" />
+    <None Include="Resources\preferences.ico" />
+    <None Include="Resources\table2_warning.ico" />
+    <None Include="Resources\table_replace.ico" />
+    <None Include="Resources\chart_gantt.ico" />
+    <None Include="Resources\checkbox.ico" />
+    <None Include="Resources\selection_view.ico" />
+    <None Include="Resources\delete_16x16.ico" />
+    <None Include="Resources\add_16x161.ico" />
+    <None Include="Resources\add_16x16.ico" />
+    <None Include="Resources\money_check.ico" />
+    <None Include="Resources\garbage_make_empty.ico" />
+    <None Include="Resources\cd_into.ico" />
+    <None Include="Resources\DocumentsChange.ico" />
+    <None Include="Resources\Remove.ico" />
+    <None Include="Resources\Add_1.ico" />
+    <None Include="Resources\RemAll.ico" />
+    <None Include="Resources\AddAll.ico" />
+    <None Include="Resources\exit.ico" />
+    <None Include="Resources\GearOnly.ico" />
+    <None Include="Resources\Gear.ico" />
+    <None Include="Resources\stop.ico" />
+    <None Include="Resources\UserPreferences.ico" />
+    <None Include="Resources\Graphics.ico" />
+    <None Include="Resources\RegistryReplace.ico" />
+    <None Include="Resources\ImageReplace.ico" />
+    <None Include="Resources\LightBrowBoxSave.ico" />
+    <None Include="Resources\LightBrowBoxRem.ico" />
+    <None Include="Resources\LightBrowBoxOk.ico" />
+    <None Include="Resources\LightBrowBoxAdd.ico" />
+    <None Include="Resources\MetapackageSave.ico" />
+    <None Include="Resources\MetapackageAdd.ico" />
+    <None Include="Resources\MetapackageOk.ico" />
+    <None Include="Resources\MetapackageRem.ico" />
+    <None Include="Resources\ClosedBox.ico" />
+    <None Include="Resources\ClosedBoxWhite.ico" />
+    <None Include="Resources\OpenBox.ico" />
+    <None Include="Resources\OpenBoxWhite.ico" />
+    <None Include="Resources\check.ico" />
+    <None Include="Resources\FolderIn.ico" />
+    <None Include="Resources\PaintUp.ico" />
+    <None Include="Resources\pause.ico" />
+    <None Include="Resources\FormCheck.ico" />
+    <None Include="Resources\FormRem.ico" />
+    <None Include="Resources\FormAdd.ico" />
+    <None Include="Resources\DataField.ico" />
+    <None Include="Resources\TableReplace.ico" />
+    <None Include="Resources\TableOk.ico" />
+    <None Include="Resources\TableInfo.ico" />
+    <None Include="Resources\TableFind.ico" />
+    <None Include="Resources\TableNew.ico" />
+    <None Include="Resources\DataBaseNew.ico" />
+    <None Include="Resources\RemTable.ico" />
+    <None Include="Resources\RemColumn.ico" />
+    <None Include="Resources\AddTable.ico" />
+    <None Include="Resources\AddColumn.ico" />
+    <None Include="Resources\Folder.ico" />
+    <None Include="Resources\data_new.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

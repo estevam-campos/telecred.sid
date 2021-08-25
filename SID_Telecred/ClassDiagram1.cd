@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SID_Telecred.Funcoes">
+    <Position X="15" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="SID_Telecred.Funcoes.TipoCampo">
+        <TypeIdentifier>
+          <NewMemberFileName>Funcoes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SID_Telecred.Funcoes.Formato" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Funcoes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SID_Telecred.Funcoes.StatusCaixa">
+        <TypeIdentifier>
+          <NewMemberFileName>Funcoes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SID_Telecred.Funcoes.StatusLote">
+        <TypeIdentifier>
+          <NewMemberFileName>Funcoes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SID_Telecred.Funcoes.StatusImagem">
+        <TypeIdentifier>
+          <NewMemberFileName>Funcoes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SID_Telecred.Funcoes.StatusLogin">
+        <TypeIdentifier>
+          <NewMemberFileName>Funcoes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SID_Telecred.Funcoes.OpcaoConfiguracao">
+        <TypeIdentifier>
+          <NewMemberFileName>Funcoes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gUBgIUQBAiAAEIAWAAYAKIAAAAEAARWAABQCAAICMAA=</HashCode>
+      <FileName>Funcoes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Lote">
+    <Position X="6" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAQoEgwAAACACAAAAAACAAKAAAAKAgQgAAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Caixa">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAQAAgAgAAEQAAAAgAACAEAAAAAIAAAgIgAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Campo">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACFCAAAUAgAAAAAAACCAACACAQQACACIEAAgAABEIBA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.CampoLayout">
+    <Position X="9.25" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAACAAAAAAAQAEAIAAAAgIAAgAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Exportacao">
+    <Position X="9.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAoAAAQAAAAAAACACAAAAAAAYAICAAAAAAEA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Imagem">
+    <Position X="0.5" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAwBAIAAAAAAAAAACAAAAAAAoSAAAAAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Layout">
+    <Position X="12" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAgAAAAAAAACAAAACAIAAAAAIBCAgAAAgAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.MessageFilter" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="8.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAIAEICA=</HashCode>
+      <FileName>MessageFilter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SID_Telecred.Permissoes">
+    <Position X="9.25" Y="7.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Registro">
+    <Position X="3.25" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAoAAAAAAAAAAAAAKAAAAAAAIBKIggAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Servico">
+    <Position X="12" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACEQgAAAIgAAAAAAAACAAAACAAAAAQAIBCAgAAAoiAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SID_Telecred.Usuario">
+    <Position X="6" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgQgAAAACAAAAAAAACBCAQAAAIAABoQAAgABA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,214 @@
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.config
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.manifest
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.application
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.ResolveComReference.cache
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAberturaCaixa.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAssociacaoCampos.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmChaveRegistro.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfiguracao.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDigitacao.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportacaoBases.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportarDigitalizados.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLogin.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLotes.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPrincipal.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmServicos.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmSobre.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmUsuario.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.Properties.Resources.resources
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe.manifest
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.application
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe
+C:\Users\Michael\Desktop\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.pdb
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.config
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.ResolveComReference.cache
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.pdb
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csprojResolveAssemblyReference.cache
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAberturaCaixa.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAssociacaoCampos.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmChaveRegistro.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarServico.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarAplicacao.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDigitacao.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacao.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportacaoBases.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportarDigitalizados.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLogin.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLotes.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmManutencaoLotes.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPrincipal.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmRelatorios.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmServicos.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmSobre.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmUsuario.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.Properties.Resources.resources
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.GenerateResource.Cache
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.manifest
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.application
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.pdb
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe.manifest
+C:\Users\estev\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.application
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.application
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.ResolveComReference.cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCriacaoLotes.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAssociacaoCampos.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCaixa.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmChaveRegistro.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarServico.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarAplicacao.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDigitacao.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacao.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportacaoBases.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportarDigitalizados.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLogin.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLotes.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmManutencaoLotes.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPrincipal.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmRelatorios.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmServicos.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmSobre.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmUsuario.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.application
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.pdb
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.config
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.manifest
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.application
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.pdb
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.ResolveComReference.cache
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCriacaoLotes.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAssociacaoCampos.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCaixa.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmChaveRegistro.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarServico.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarAplicacao.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDigitacao.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacao.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacaoCD.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportacaoBases.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportarDigitalizados.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLogin.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLotes.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmManutencaoLotes.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPrincipal.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmRelatorios.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmServicos.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmSobre.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmUsuario.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.Properties.Resources.resources
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.GenerateResource.Cache
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe.manifest
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.application
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.pdb
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csprojResolveAssemblyReference.cache
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\itextsharp.dll
+F:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\itextsharp.xml
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.config
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.manifest
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.application
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.pdb
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\itextsharp.dll
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\bin\Debug\itextsharp.xml
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csprojResolveAssemblyReference.cache
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.ResolveComReference.cache
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCriacaoLotes.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAssociacaoCampos.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCaixa.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmChaveRegistro.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarServico.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarAplicacao.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDigitacao.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacao.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacaoCD.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportacaoBases.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportarDigitalizados.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLogin.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLotes.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmManutencaoLotes.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPrincipal.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmRelatorios.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmServicos.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmSobre.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmUsuario.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.Properties.Resources.resources
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.GenerateResource.Cache
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe.manifest
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.application
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.pdb
+H:\Users\Michael\Documents\Visual Studio 2013\Projects\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExpurgo.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.application
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\bin\Debug\SID_Telecred.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\bin\Debug\itextsharp.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.ResolveComReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAlteracaoStatusPeg.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAssociarServicoReembolso.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConsultarPeg.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCriacaoLotes.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAssociacaoCampos.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmCaixa.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmChaveRegistro.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarServico.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmConfigurarAplicacao.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDigitacao.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDistribuirPeg.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmEstatisticasPegPortal.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmEvento.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacao.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExportacaoCD.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmExpurgo.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmFechamentoReembolso.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportacaoBases.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportacaoPegs.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmImportarDigitalizados.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLogin.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmLotes.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmManutencaoLotes.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmMigracaoPegPortal.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPermissaoPeg.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPesquisa.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmPrincipal.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmReembolso.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmRelatorios.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmRespostaPeg.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmServicos.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmSobre.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmUsuario.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.GenerateResource.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.application
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csproj.CopyComplete
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmAlterarRegimeAtendimento.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmDavitaImportacao.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmVerificacaoNFe.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmEnvioListagem.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Projetos.NET\SID_Telecred\SID_Telecred\obj\Debug\SID_Telecred.frmManutencao.resources
